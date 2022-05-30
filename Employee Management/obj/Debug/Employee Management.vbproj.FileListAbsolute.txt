@@ -1,0 +1,20 @@
+C:\Users\Asus\AppData\Local\Temporary Projects\Employee Management\bin\Debug\Employee Management.exe.config
+C:\Users\Asus\AppData\Local\Temporary Projects\Employee Management\bin\Debug\Employee Management.exe
+C:\Users\Asus\AppData\Local\Temporary Projects\Employee Management\bin\Debug\Employee Management.pdb
+C:\Users\Asus\AppData\Local\Temporary Projects\Employee Management\bin\Debug\Employee Management.xml
+C:\Users\Asus\AppData\Local\Temporary Projects\Employee Management\obj\Debug\Employee_Management.Form1.resources
+C:\Users\Asus\AppData\Local\Temporary Projects\Employee Management\obj\Debug\Employee_Management.Resources.resources
+C:\Users\Asus\AppData\Local\Temporary Projects\Employee Management\obj\Debug\Employee Management.vbproj.GenerateResource.Cache
+C:\Users\Asus\AppData\Local\Temporary Projects\Employee Management\obj\Debug\Employee Management.exe
+C:\Users\Asus\AppData\Local\Temporary Projects\Employee Management\obj\Debug\Employee Management.xml
+C:\Users\Asus\AppData\Local\Temporary Projects\Employee Management\obj\Debug\Employee Management.pdb
+D:\Employee Management\Employee Management\bin\Debug\Employee Management.exe.config
+D:\Employee Management\Employee Management\obj\Debug\Employee Management.exe
+D:\Employee Management\Employee Management\obj\Debug\Employee Management.xml
+D:\Employee Management\Employee Management\obj\Debug\Employee Management.pdb
+D:\Employee Management\Employee Management\bin\Debug\Employee Management.exe
+D:\Employee Management\Employee Management\bin\Debug\Employee Management.pdb
+D:\Employee Management\Employee Management\bin\Debug\Employee Management.xml
+D:\Employee Management\Employee Management\obj\Debug\Employee_Management.Form1.resources
+D:\Employee Management\Employee Management\obj\Debug\Employee_Management.Resources.resources
+D:\Employee Management\Employee Management\obj\Debug\Employee Management.vbproj.GenerateResource.Cache
